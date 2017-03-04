@@ -1,11 +1,6 @@
 package com.expedia.hotel.beans;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
-
-import org.apache.catalina.tribes.util.Arrays;
 
 
 public class OfferBean {

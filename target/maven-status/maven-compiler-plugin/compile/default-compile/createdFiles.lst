@@ -1,0 +1,15 @@
+com\expedia\hotel\beans\OfferBean$HotelUrls.class
+com\expedia\hotel\GetHotelOffers.class
+com\expedia\hotel\beans\OfferBean$HotelPricingInfo.class
+com\expedia\hotel\beans\UserInfoBean$Persona.class
+com\expedia\hotel\beans\HotelOffersBean.class
+com\expedia\hotel\searchHotelOffers.class
+com\expedia\hotel\beans\OfferBean$HotelUrgencyInfo.class
+com\expedia\hotel\beans\OfferBean$HotelInfo.class
+com\expedia\hotel\beans\OfferBean.class
+com\expedia\hotel\beans\OfferBean$Destination.class
+com\expedia\hotel\beans\OfferInfoBean.class
+com\expedia\hotel\beans\OfferBean$HotelScores.class
+com\expedia\hotel\beans\JsonResponseBean.class
+com\expedia\hotel\beans\OfferBean$OfferDateRange.class
+com\expedia\hotel\beans\UserInfoBean.class
